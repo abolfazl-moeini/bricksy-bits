@@ -1,0 +1,19 @@
+{
+  "name": "php-press/bricksy-bits",
+  "type": "wp-plugin",
+  "version": "0.0.1",
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "PHPPress\\BricksyBits\\": "./src/"
+    }
+  },
+  "config": {
+    "platform": {
+      "php": "7.4"
+    }
+  },
+  "optimize-autoloader": true
+}
