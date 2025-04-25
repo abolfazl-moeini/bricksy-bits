@@ -1,5 +1,5 @@
 
-# Bricksy Bits 🧩  
+# Bricksy Bits
 A lightweight add-on that brings essential missing features to Bricks Builder — crafted for performance, usability, and a better developer experience.
 
 ---
