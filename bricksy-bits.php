@@ -7,6 +7,7 @@ Requires PHP: 7.4
 Author: PHP-Press
 Version: 0.0.1
 Author URI: http://php-press.com/
+License: GPLv2 or later
 */
 
 if ( ! function_exists( 'add_action' ) ) {
